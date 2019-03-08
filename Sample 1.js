@@ -3,5 +3,5 @@ function sayHello() {
 }
 
 function sayWorld() {
-	return 'world-M';
+	return 'world-D2';
 }
